@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Pycharm Projects/learn/model/model.ckpt"
+all_model_checkpoint_paths: "C:/Pycharm Projects/learn/model/model.ckpt"
